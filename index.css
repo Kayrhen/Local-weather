@@ -1,0 +1,39 @@
+.container-fluid{
+  text-align:center;
+  font-family:'Quicksand', sans-serif;
+}
+body{
+    background-position:absolute;
+    color:white;
+  }
+  #temp{
+    font-size: 20px;
+  }
+  h2{
+    font-family: 'Merienda', cursive;
+    color:white;
+    padding:5%;
+  }
+  
+  #units{
+    border-radius: 10%;
+    background-color:#CCCCCC;
+    border-color:grey;
+    color:black;
+    font-size:10px;
+  }
+  .well{
+    background-color:#D8BFD8;
+    color:black;
+    border-radius:10px;
+    margin: 5px;
+    line-height: 80px;
+    text-align: center;
+    box-shadow:2px 3px black;
+    width: 100px;
+    height:80px;
+    opacity: .75;
+  }
+.info{
+  margin:0 auto;
+}
